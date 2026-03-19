@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "vaultkeeper",
-      "description": "Persoenliches Wissensmanagement: Obsidian Vault als Second Brain + Vorderland Brain als Team-Wissenspipeline",
+      "description": "Persoenliches Wissensmanagement: SvenBrain (Obsidian) als Second Brain + Vorderland Vault als Team-Wissenspipeline",
       "version": "0.1.0",
       "author": {
         "name": "Sven Horvath",

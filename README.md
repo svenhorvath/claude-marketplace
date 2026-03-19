@@ -6,7 +6,7 @@ Zentraler Marketplace fuer Claude Code Plugins von Sven Horvath (Bauamt Vorderla
 
 | Plugin | Beschreibung |
 |--------|-------------|
-| [vaultkeeper](https://github.com/svenhorvath/vaultkeeper) | Obsidian Vault + Vorderland Brain Wissensmanagement |
+| [vaultkeeper](https://github.com/svenhorvath/vaultkeeper) | SvenBrain (Obsidian) + Vorderland Vault Wissensmanagement |
 | [protokoll-skill](https://github.com/svenhorvath/protokoll-skill) | Sitzungstranskripte zu Protokollen (Word) mit adaptivem Lernen |
 
 ## Installation
