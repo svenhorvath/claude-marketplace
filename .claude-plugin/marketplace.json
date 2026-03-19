@@ -1,5 +1,7 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "svenhorvath-tools",
+  "description": "Claude Code Plugins von Sven Horvath (Bauamt Vorderland)",
   "owner": {
     "name": "Sven Horvath",
     "email": "sven.horvath@vorderland.at"
@@ -14,8 +16,8 @@
         "url": "https://github.com/svenhorvath"
       },
       "source": {
-        "type": "github",
-        "repo": "svenhorvath/vaultkeeper"
+        "source": "url",
+        "url": "https://github.com/svenhorvath/vaultkeeper.git"
       },
       "category": "productivity"
     },
@@ -28,8 +30,8 @@
         "url": "https://github.com/svenhorvath"
       },
       "source": {
-        "type": "github",
-        "repo": "svenhorvath/protokoll-skill"
+        "source": "url",
+        "url": "https://github.com/svenhorvath/protokoll-skill.git"
       },
       "category": "productivity"
     }
