@@ -1,0 +1,37 @@
+{
+  "name": "svenhorvath-tools",
+  "owner": {
+    "name": "Sven Horvath",
+    "email": "sven.horvath@vorderland.at"
+  },
+  "plugins": [
+    {
+      "name": "vaultkeeper",
+      "description": "Persoenliches Wissensmanagement: Obsidian Vault als Second Brain + Vorderland Brain als Team-Wissenspipeline",
+      "version": "0.1.0",
+      "author": {
+        "name": "Sven Horvath",
+        "url": "https://github.com/svenhorvath"
+      },
+      "source": {
+        "type": "github",
+        "repo": "svenhorvath/vaultkeeper"
+      },
+      "category": "productivity"
+    },
+    {
+      "name": "protokoll-skill",
+      "description": "Sitzungstranskripte zu formatierten Protokollen (intern, extern, schulfix) mit adaptivem Lernen",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sven Horvath",
+        "url": "https://github.com/svenhorvath"
+      },
+      "source": {
+        "type": "github",
+        "repo": "svenhorvath/protokoll-skill"
+      },
+      "category": "productivity"
+    }
+  ]
+}
