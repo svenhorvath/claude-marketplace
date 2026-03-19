@@ -34,6 +34,20 @@
         "url": "https://github.com/svenhorvath/protokoll-skill.git"
       },
       "category": "productivity"
+    },
+    {
+      "name": "skill-evaluator",
+      "description": "Automatisierter Skill-Evaluierungs-Workflow: Analyse, Verbesserung, Benchmark und HTML-Report",
+      "version": "0.1.0",
+      "author": {
+        "name": "Sven Horvath",
+        "url": "https://github.com/svenhorvath"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/svenhorvath/skill-evaluator_plugin.git"
+      },
+      "category": "development"
     }
   ]
 }
