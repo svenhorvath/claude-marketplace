@@ -10,7 +10,7 @@
     {
       "name": "vaultkeeper",
       "description": "Persoenliches Wissensmanagement: SvenBrain (Obsidian) als Second Brain + Vorderland Vault als Team-Wissenspipeline",
-      "version": "0.1.0",
+      "version": "0.3.0",
       "author": {
         "name": "Sven Horvath",
         "url": "https://github.com/svenhorvath"
