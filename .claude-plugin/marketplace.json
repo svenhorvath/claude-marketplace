@@ -36,9 +36,9 @@
       "category": "productivity"
     },
     {
-      "name": "skill-evaluator",
-      "description": "Automatisierter Skill-Evaluierungs-Workflow: Analyse, Verbesserung, Benchmark und HTML-Report",
-      "version": "0.1.0",
+      "name": "tool-enhancer",
+      "description": "Automatisierte Skill- und Plugin-Verbesserung: Strukturpruefung, CLAUDE.md-Audit, A/B-Benchmark mit Varianz-Analyse und HTML-Report",
+      "version": "0.2.0",
       "author": {
         "name": "Sven Horvath",
         "url": "https://github.com/svenhorvath"
